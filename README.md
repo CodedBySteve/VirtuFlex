@@ -4,6 +4,7 @@ This project takes part of Innovation Fest 2024, and was developed with a team, 
 The overall performance is the robot arm mimicking physical hand motions of the user through the smart glove. UN sustainability goals are considered when developing this project, including: 
 1. Industry, Innovation, Infrastructure.
 2. Quality education
+
 The problems that this project is to tackle are to incite safety in workplaces involving dangerous substances or materials e.g., toxic chemicals or radioactive materials. The idea is to bring a safe distance from exposing the staff workers from harm's way. By
 enabling individuals to perform operations in a safe distance (remotely) it can reduce risks occurring in workplaces. Other alternative option is the prototype serving in the educational industries, presenting it with the intent to allow students explore and understand the prototype workings; providing
 educative guidelines to experiment and modify the robot performance, easing in an introduction to electronics and coding in embedded systems, as well as to the features of the Arduino.
