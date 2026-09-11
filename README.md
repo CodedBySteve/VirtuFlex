@@ -23,7 +23,7 @@ This project takes part of Innovation Fest 2024, and was developed with a team, 
 * Source code is found in src_robot_arm.ino
 * Images file contains both CAD pdfs including components sketches with their dimensions, project logo and prototype sketches.
 
-Prototype:
+## Prototype
 ![prototype smart glove](https://github.com/CodedBySteve/VirtuFlex/blob/b8ec004522b2262cabde9fe8045184265f34d0de/Images/Smart%20glove%20prototype.jpg)
 ![prototype robotic arm](https://github.com/CodedBySteve/VirtuFlex/blob/b8ec004522b2262cabde9fe8045184265f34d0de/Images/Robotic%20arm%20prototype.jpg)
 
